@@ -1,15 +1,14 @@
 
 body {
     background-color: rgb(255, 255, 255); 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium'
     color: rgb(46, 18, 18);
     
 }
   
 header {
 text-align: center;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color: azure;
+font-family: 'Franklin Gothic Medium'
 border: black;
 border-radius: 50px;
 padding: 20px;}
@@ -29,7 +28,7 @@ padding: 10px;
   }
   
   p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium'
     font-size: 20px;
   }
 
